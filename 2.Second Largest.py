@@ -9,3 +9,5 @@ class Solution:
             elif num >sec and num!=lar:
                 sec = num
         return sec
+
+#gfg
